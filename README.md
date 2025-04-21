@@ -17,4 +17,10 @@ GMCWare: A Greedy Modularity Community-based Simplification Algorithm for Malwar
        Then change Trainer.py, you can understand the code easily by the comments <br>
        and load the model from 'Model_GraphDoatGAt.pth' or 'Model_GraphGAT.pth', 'Model_GraphSAGE.pth'... <br>
        run Trainer.py<br>
-       GMCWare_Test_Data includes a Dataset we open-source in GMC_data folder, only 50 per class <br>
+       GMCWare_Test_Data includes a Dataset we open-source in GMC_data folder, only 50 per class <be>
+
+
+
+'''python
+   
+'''
